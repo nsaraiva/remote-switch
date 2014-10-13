@@ -3,5 +3,5 @@ Turning on/off remotely devices, with arduino.
 1. remote_switch.py - Copy to TL-MR3020 Router.
 2. remote_switch.ino - Copy to arduino.
 3. flask_app.py - Copy to Web server.
-
+ 
 Visit the website for full tutorial nelsonsaraiva.wordpress.com/2014/08/18/comunicacao-com-o-arduino-via-internet-parte-1/
